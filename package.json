@@ -1,0 +1,13 @@
+{
+  "name": "hello-milo-md2docx",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "milo-md2docx": "^1.8.1",
+    "milo-parse-markdown": "^1.0.0",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
